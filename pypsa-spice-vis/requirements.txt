@@ -2,9 +2,9 @@
 
 # SPDX-License-Identifier: GPL-2.0-or-later
 
-streamlit==1.47.0
-pandas==2.3.1
-plotly==6.3.0
-numpy==1.26.4
-PyYAML==6.0.2
-streamlit-js-eval==0.1.7
+streamlit>=1.47.0
+pandas>=2.0.0
+plotly>=5.0.0
+numpy>=1.26.0
+PyYAML>=6.0.0
+streamlit-js-eval>=0.1.7
