@@ -1,0 +1,16 @@
+country,technology,carrier,year,value,unit
+XY,EDLH,Electricity,2030,64.78,Million usd
+XY,EHPP,Electricity,2030,14.0,Million usd
+XY,EIDT,Electricity,2030,141.59,Million usd
+XY,IND_BOILER,Bio,2030,407.5,Million usd
+XY,IND_BOILER,Gas,2030,495.0,Million usd
+XY,IND_BOILER,Hrdc,2030,343.0,Million usd
+XY,IND_BOILER,Oil,2030,157.5,Million usd
+YZ,EDLH,Electricity,2030,64.78,Million usd
+YZ,EERH,Electricity,2030,88.8,Million usd
+YZ,EHPP,Electricity,2030,78.58,Million usd
+YZ,EIDT,Electricity,2030,63.08,Million usd
+YZ,IND_BOILER,Bio,2030,407.5,Million usd
+YZ,IND_BOILER,Gas,2030,462.0,Million usd
+YZ,IND_BOILER,Hrdc,2030,343.0,Million usd
+YZ,IND_BOILER,Oil,2030,315.0,Million usd

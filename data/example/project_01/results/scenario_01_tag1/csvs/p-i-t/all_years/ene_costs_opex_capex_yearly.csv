@@ -1,0 +1,25 @@
+country,finance,value,year,unit
+XY,opex,10264.19,2025,Million usd
+YZ,opex,6692.889999999999,2025,Million usd
+XY,capex,3972.31,2025,Million usd
+YZ,capex,4666.27,2025,Million usd
+XY,opex,8799.99,2030,Million usd
+YZ,opex,7572.7,2030,Million usd
+XY,capex,4511.34,2030,Million usd
+YZ,capex,9234.37,2030,Million usd
+XY,opex,8800.39,2035,Million usd
+YZ,opex,7598.02,2035,Million usd
+XY,capex,4300.29,2035,Million usd
+YZ,capex,9692.58,2035,Million usd
+XY,opex,8141.65,2040,Million usd
+YZ,opex,7959.65,2040,Million usd
+XY,capex,4674.14,2040,Million usd
+YZ,capex,10187.0,2040,Million usd
+XY,opex,7413.59,2045,Million usd
+YZ,opex,7650.95,2045,Million usd
+XY,capex,5099.26,2045,Million usd
+YZ,capex,10550.9,2045,Million usd
+XY,opex,6672.09,2050,Million usd
+YZ,opex,8201.88,2050,Million usd
+XY,capex,7212.16,2050,Million usd
+YZ,capex,10676.34,2050,Million usd

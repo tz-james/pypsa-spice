@@ -1,0 +1,5 @@
+country,from,to,year,value,unit
+XY,XY_CE,XY_NR,2035,4.2,GW
+XY,XY_CE,XY_SO,2035,1.7,GW
+YZ,YZ_CE,YZ_NR,2035,2.6,GW
+YZ,YZ_CE,YZ_SO,2035,0.8,GW

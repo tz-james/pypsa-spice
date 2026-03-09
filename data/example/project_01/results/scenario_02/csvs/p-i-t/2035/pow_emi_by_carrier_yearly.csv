@@ -1,0 +1,8 @@
+country,carrier,year,value,unit
+XY,Gas,2035,0.36,MtCO2
+XY,Hrdc,2035,22.3,MtCO2
+XY,Lig,2035,21.72,MtCO2
+XY,Waste,2035,0.14,MtCO2
+YZ,Gas,2035,0.23,MtCO2
+YZ,Hrdc,2035,42.35,MtCO2
+YZ,Lig,2035,15.63,MtCO2

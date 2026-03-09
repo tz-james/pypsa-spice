@@ -1,0 +1,7 @@
+country,carrier,year,value,unit
+XY,Gas,2030,5.53,MtCO2
+XY,Hrdc,2030,7.36,MtCO2
+XY,Oil,2030,3.92,MtCO2
+YZ,Gas,2030,0.81,MtCO2
+YZ,Hrdc,2030,14.88,MtCO2
+YZ,Oil,2030,4.2,MtCO2

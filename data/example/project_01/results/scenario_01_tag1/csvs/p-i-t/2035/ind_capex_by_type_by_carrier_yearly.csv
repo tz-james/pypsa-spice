@@ -1,0 +1,17 @@
+country,technology,carrier,year,value,unit
+XY,EDLH,Electricity,2035,104.84,Million usd
+XY,EHPP,Electricity,2035,31.59,Million usd
+XY,EIDT,Electricity,2035,210.82,Million usd
+XY,IND_BOILER,Bio,2035,127.22,Million usd
+XY,IND_BOILER,Gas,2035,154.53,Million usd
+XY,IND_BOILER,Hrdc,2035,89.29,Million usd
+XY,IND_BOILER,Hyd,2035,1.97,Million usd
+XY,IND_BOILER,Oil,2035,49.17,Million usd
+YZ,EDLH,Electricity,2035,170.96,Million usd
+YZ,EERH,Electricity,2035,227.65,Million usd
+YZ,EHPP,Electricity,2035,218.72,Million usd
+YZ,EIDT,Electricity,2035,243.66,Million usd
+YZ,IND_BOILER,Bio,2035,197.53,Million usd
+YZ,IND_BOILER,Gas,2035,223.95,Million usd
+YZ,IND_BOILER,Hrdc,2035,143.73,Million usd
+YZ,IND_BOILER,Oil,2035,152.69,Million usd

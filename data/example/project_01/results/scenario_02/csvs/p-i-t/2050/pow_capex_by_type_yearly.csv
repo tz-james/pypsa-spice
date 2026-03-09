@@ -1,0 +1,25 @@
+country,technology,year,value,unit
+XY,BIOT,2050,265.58,Million usd
+XY,CCGT,2050,354.43,Million usd
+XY,CSP,2050,36.42,Million usd
+XY,HDAM,2050,287.58,Million usd
+XY,ITCN,2050,17.16,Million usd
+XY,NUCL,2050,754.85,Million usd
+XY,OCHT,2050,123.17,Million usd
+XY,OILT,2050,17.88,Million usd
+XY,PHOT,2050,2094.02,Million usd
+XY,RTPV,2050,27.98,Million usd
+XY,SubC,2050,433.89,Million usd
+XY,WSTT,2050,7.92,Million usd
+XY,WTON,2050,869.27,Million usd
+YZ,BIOT,2050,5.23,Million usd
+YZ,CCGT,2050,575.08,Million usd
+YZ,HROR,2050,1817.48,Million usd
+YZ,ITCN,2050,34.42,Million usd
+YZ,OCGT,2050,435.38,Million usd
+YZ,OILT,2050,17.75,Million usd
+YZ,PHOT,2050,635.39,Million usd
+YZ,RTPV,2050,47.58,Million usd
+YZ,SubC,2050,1057.4,Million usd
+YZ,SupC,2050,1002.45,Million usd
+YZ,WTON,2050,3263.43,Million usd

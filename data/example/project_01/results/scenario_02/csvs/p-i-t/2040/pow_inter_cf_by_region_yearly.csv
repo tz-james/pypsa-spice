@@ -1,0 +1,5 @@
+country,from,to,value,year,unit
+XY,XY_CE,XY_NR,0.2,2040,Dimensionless
+XY,XY_CE,XY_SO,0.73,2040,Dimensionless
+YZ,YZ_CE,YZ_NR,0.77,2040,Dimensionless
+YZ,YZ_CE,YZ_SO,0.9,2040,Dimensionless

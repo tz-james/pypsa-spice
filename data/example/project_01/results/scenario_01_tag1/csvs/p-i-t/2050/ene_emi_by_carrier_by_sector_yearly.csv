@@ -1,0 +1,12 @@
+country,sector,carrier,year,value,unit
+XY,power,Hrdc,2050,6.94,MtCO2
+XY,power,Lig,2050,21.29,MtCO2
+XY,power,Waste,2050,0.09,MtCO2
+XY,industry,Gas,2050,0.55,MtCO2
+XY,industry,Hrdc,2050,1.13,MtCO2
+YZ,power,Gas,2050,1.15,MtCO2
+YZ,power,Hrdc,2050,37.68,MtCO2
+YZ,power,Lig,2050,12.72,MtCO2
+YZ,industry,Gas,2050,0.85,MtCO2
+YZ,industry,Hrdc,2050,4.18,MtCO2
+YZ,industry,Oil,2050,3.97,MtCO2

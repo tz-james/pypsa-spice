@@ -1,0 +1,13 @@
+country,sector,carrier,year,value,unit
+XY,power,Gas,2045,0.56,MtCO2
+XY,power,Hrdc,2045,21.82,MtCO2
+XY,power,Lig,2045,21.72,MtCO2
+XY,power,Waste,2045,0.09,MtCO2
+XY,industry,Gas,2045,2.63,MtCO2
+XY,industry,Hrdc,2045,3.17,MtCO2
+YZ,power,Gas,2045,0.59,MtCO2
+YZ,power,Hrdc,2045,41.4,MtCO2
+YZ,power,Lig,2045,12.81,MtCO2
+YZ,industry,Gas,2045,1.21,MtCO2
+YZ,industry,Hrdc,2045,4.15,MtCO2
+YZ,industry,Oil,2045,1.77,MtCO2

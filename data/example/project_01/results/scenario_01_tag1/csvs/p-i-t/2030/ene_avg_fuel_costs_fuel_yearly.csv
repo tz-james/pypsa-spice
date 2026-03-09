@@ -1,0 +1,17 @@
+country,carrier,year,value,unit
+XY,Bio,2030,10.0,usd/MWh_th
+XY,Gas,2030,50.0,usd/MWh_th
+XY,Hrdc,2030,15.0,usd/MWh_th
+XY,Hyd,2030,,usd/MWh_th
+XY,Lig,2030,3.0,usd/MWh_th
+XY,Lng,2030,,usd/MWh_th
+XY,Uranium,2030,3.0,usd/MWh_th
+XY,Oil,2030,46.0,usd/MWh_th
+XY,Waste,2030,28.0,usd/MWh_th
+YZ,Bio,2030,7.0,usd/MWh_th
+YZ,Gas,2030,63.81,usd/MWh_th
+YZ,Hrdc,2030,11.0,usd/MWh_th
+YZ,Hyd,2030,,usd/MWh_th
+YZ,Lig,2030,1.5,usd/MWh_th
+YZ,Uranium,2030,,usd/MWh_th
+YZ,Oil,2030,63.73,usd/MWh_th

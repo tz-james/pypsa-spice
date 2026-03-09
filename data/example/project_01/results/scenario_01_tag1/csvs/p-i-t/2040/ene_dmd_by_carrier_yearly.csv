@@ -1,0 +1,7 @@
+country,carrier,year,value,unit
+XY,Electricity,2040,101.5,TWh
+XY,High_Heat,2040,83.9,TWh
+XY,Low_Heat,2040,101.7,TWh
+YZ,Electricity,2040,191.6,TWh
+YZ,High_Heat,2040,83.9,TWh
+YZ,Low_Heat,2040,101.7,TWh

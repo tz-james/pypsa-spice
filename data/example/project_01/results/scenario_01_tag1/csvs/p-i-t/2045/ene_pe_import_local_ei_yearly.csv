@@ -1,0 +1,4 @@
+country,type,year,value,unit
+XY,import,2045,6.95,Dimensionless
+XY,local,2045,369.41,Dimensionless
+XY,ei_frac,2045,0.982,Dimensionless
